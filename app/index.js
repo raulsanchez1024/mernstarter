@@ -16,3 +16,5 @@ module.exports = class extends Generator {
     this.installDependencies({ npm: true, bower: false, yarn: false });
   }
 };
+
+// lost
